@@ -98,19 +98,10 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
   
 
 - https://github.com/Kalankendra-DAO
+- https://github.com/MarmaJFoundation
 
 - https://github.com/Kalankendra-DAO/shardible
 
-  
-
-GitHub accounts of all team members.
-  
-
-- https://github.com/<team_member_1>
-
-- https://github.com/<team_member_2>
-
-  
 
 ## Development Status :open_book:
 
