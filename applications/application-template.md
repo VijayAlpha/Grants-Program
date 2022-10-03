@@ -3,9 +3,9 @@
 
   
 
--  **Project Name:** Locker Room (lockerroom.io)
+-  **Project Name:** Lockeroom (lockeroom.io)
 
--  **Team Name:** kalakendra DAO
+-  **Team Name:** kalakendra DAO / Marmaj DAO
 
   
 
