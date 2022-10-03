@@ -56,7 +56,7 @@ Please provide the following:
   
 
 **Basic UML Diagram:**
-
+![UML Design](./uml-daigram.jpg)
   
 
 **Technology stack:**
