@@ -1,38 +1,81 @@
+
 # Mintbase Grant Proposal
 
+  
+
 -  **Project Name:** Locker Room (lockerroom.io)
+
 -  **Team Name:** kalakendra DAO
+
+  
 
 -  **Payment Address:** kalakendradao.sputnik-dao.near
 
--  **[Level](../README.md#level_slider-levels):** 1
+  
+
+-  **Level:** 1
+
   
 
 ## Project Overview :page_facing_up:
 
+  
+
 ### Overview
+
+  
 
 Please provide the following:
 
+  
+
 - Adult based NFT marketplace 18+
+
+  
 
 - Lockeroom.io is an Adult NFT marketplace built on Near protocol that facilitates the sale and gives access to adult-themed virtual assets, such as digital art, videos, and photos through NFTs (Non Fungible Tokens). The platform uses the Near protocol, which enables fast and secure transactions between buyers and sellers.
 
   
+
 - An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
+
+  
 
 - An indication of why your team is interested in creating this project.
 
   
 
+  
+
 ### Project Details
- 
 
-- UI Design
+  
 
-- Basic UML Diagram
+**UI Design:**
 
-- Technology stack
+  
+
+**Basic UML Diagram:**
+
+  
+
+**Technology stack:**
+- Backend:
+
+	-   MongoDB
+	-   AWS S3 (For censored content storage)
+	-   Express.js
+	-  	 Node.js
+	-   Near javascript-sdk (for smart contract)
+	-   Arweave (For NFT Pass Storage)
+    
+
+- Frontend:
+
+	-  	 React
+	-   Tailwind CSS
+
+  
 
   
 
@@ -40,21 +83,37 @@ Please provide the following:
 
   
 
+  
+
 Help us locate your project in the Mintbase landscape and what problems it tries to solve by answering each of these questions:
+
+  
 
   
 
 - Where and how does your project fit into the ecosystem?
 
+  
+
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+
+  
 
 - What need(s) does your project meet?
 
+  
+
 - Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
+
+  
 
 - If so, how is your project different?
 
+  
+
 - If not, are there similar projects in related ecosystems?
+
+  
 
   
 
@@ -62,13 +121,21 @@ Help us locate your project in the Mintbase landscape and what problems it tries
 
   
 
+  
+
 ### Team members
 
   
 
--  Team leader: Chole
+  
 
-- Team members: Monish Muralidharan, Vijay Murugan, Allie.
+- **Team leader:** Chole
+
+  
+
+- **Team members:** Monish Muralidharan, Vijay Murugan, Allie.
+
+  
 
   
 
@@ -76,12 +143,20 @@ Help us locate your project in the Mintbase landscape and what problems it tries
 
   
 
+  
+
 -  **Contact Name:** Chole
+
+  
 
 -  **Contact Email:** [Chloe@marmaj.org](mailto:Chloe@marmaj.org)
 
+  
+  
 
 ### Team's experience
+
+  
 
   
 
@@ -89,7 +164,11 @@ Please describe the team's relevant experience. If your project involves develop
 
   
 
+  
+
 If anyone on your team has applied for a grant at the Mintbase previously, please list the name of the project and legal entity here.
+
+  
 
   
 
@@ -97,61 +176,53 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 
   
 
+  
+
 - https://github.com/Kalankendra-DAO
+
 - https://github.com/MarmaJFoundation
+
+  
 
 - https://github.com/Kalankendra-DAO/shardible
 
+  
+  
 
 ## Development Status :open_book:
 
   
 
+  
+
 - links to improvement proposals or [RFPs](https://github.com/mintbase/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
+
+  
 
 - academic publications relevant to the problem,
 
+  
+
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 
+  
+
 - references to conversations you might have had related to this project with anyone from the Mintbase Foundation,
+
+  
 
 - previous interface iterations, such as mock-ups and wireframes.
 
   
 
+  
+
 ## Development Roadmap :nut_and_bolt:
 
-  
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
   
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Mintbase. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-  
-
-For each milestone,
-
-  
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-
-- include the amount of funding requested _per milestone_.
-
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-
-- commit to providing Dockerfiles for the delivery of your project.
-
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-
--  **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-  
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
   
 
@@ -159,66 +230,65 @@ For each milestone,
 
   
 
--  **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
+  
 
--  **Full-Time Equivalent (FTE):** Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-
--  **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
+-  **Total Estimated Duration:**  2 months
 
   
 
-### Milestone 1 Example — Implement Mintbase Modules
+-  **Full-Time Equivalent (FTE):**  2 FTE
+
+  
+
+-  **Total Costs:** 10,000 USD
+
+  
+
+  
+
+### Milestone 1 — Implement NFT Marketplace Modules
+
+  
 
   
 
 -  **Estimated duration:** 1 month
 
+  
+
 -  **FTE:** 2
 
--  **Costs:** 8,000 USD
-
   
 
-| Number | Deliverable | Specification |
-
-| -----: | ----------- | ------------- |
-
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Mintbase nodes and send test transactions, which will show how the new functionality works. |
-
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-
-| 1. | Mintbase module: X | We will create a Mintbase / NEAR module that will... (Please list the functionality that will be implemented for the first milestone) |
-
-| 2. | Mintbase module: Y | We will create a Mintbase / NEAR module that will... |
-
-| 3. | Mintbase module: Z | We will create a Mintbase / NEAR module that will... |
-
-| 4. | NEAR chain integration | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |
+-  **Costs:** 6,000 USD
 
   
   
 
-### Milestone 2 Example — Additional features
+  
+
+### Milestone 2 — enhanced Frontend and User Adoption
+
+  
 
   
 
 -  **Estimated Duration:** 1 month
 
--  **FTE:** 1
+  
+
+-  **FTE:** 2
+
+  
 
 -  **Costs:** 4,000 USD
 
   
-
-...
+  
 
 ## Future Plans
+
+  
 
   
 
@@ -226,14 +296,21 @@ Please include here
 
   
 
+  
+
 - how you intend to use, enhance, promote and support your project in the short term, and
+
+  
 
 - the team's long-term plans and intentions in relation to it.
 
   
+
   
 
 ## Additional Information :heavy_plus_sign:
+
+  
 
   
 
@@ -241,12 +318,20 @@ Please include here
 
   
 
+  
+
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+
+  
 
   
 
 - Work you have already done.
 
+  
+
 - If there are any other teams who have already contributed (financially) to the project.
+
+  
 
 - Previous grants you may have applied for.
