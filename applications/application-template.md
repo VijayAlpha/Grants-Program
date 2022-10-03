@@ -262,6 +262,11 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 
 -  **Costs:** 6,000 USD
 
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Mintbase nodes and send test transactions, which will show how the new functionality works. |
   
   
 
