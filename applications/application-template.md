@@ -263,7 +263,7 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 -  **Costs:** 6,000 USD
   
 
-### Milestone 2 — enhanced Frontend and User Adoption
+### Milestone 2 — Enhanced Frontend and User Adoption
 
   
 
