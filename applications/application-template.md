@@ -200,12 +200,6 @@ The development of this marketplace is complex as it is a new concept. First the
   
 
 ### Milestone 2 — Enhanced Frontend and User Adoption
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT|
-| 0b. | Documentation | Provide mockups and/or wireframes (e.g. Figma)
-
-And documents on how to connect and buy and unlock the content of Allie’s (other content creator) |
   
 
   
@@ -226,6 +220,12 @@ And documents on how to connect and buy and unlock the content of Allie’s (oth
 
 -  **Costs:** 4,000 USD
 
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | MIT|
+| 0b. | Documentation | Provide mockups and/or wireframes (e.g. Figma)
+
+And documents on how to connect and buy and unlock the content of Allie’s (other content creator) |
 
 
 ### Future Plans:
