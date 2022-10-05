@@ -1,178 +1,124 @@
+  # Mintbase Grant Proposal
+ **Project Name:** "Allie's Marketplace" (for now)
 
-# Mintbase Grant Proposal
+**Team Name:** Marmaj DAO
 
+**Payment Address**: marmaj.sputnik-dao.near
+
+**Level:** 1
   
 
--  **Project Name:** Lockeroom (lockeroom.io)
-
--  **Team Name:** kalakendra DAO / Marmaj DAO
-
-  
-
--  **Payment Address:** kalakendradao.sputnik-dao.near
-
-  
-
--  **Level:** 1
-
-  
-
-## Project Overview :page_facing_up:
-
-  
+## Project Overview :page_facing_up: 
 
 ### Overview
+**A tag line:**  Adult-centric NFT marketplace 18+
+
+**Project description:**  Allie’s Marketplace is an NFT marketplace built on NEAR Protocol. This is a hub for Allie’s own content and where her fans can buy her NFTs. The marketplace will also offer a variety of other content, including: videos, photos, and articles from Allie. The marketplace will be open to anyone who wants to purchase Allie’s content, and all transactions will be processed on the blockchain. This will provide a secure and efficient way for Allie to sell her content and connect with her fans.
 
   
 
-Please provide the following:
+**Goal:**
 
   
 
-- Adult based NFT marketplace 18+
+Our goal is to encourage web3 space adoption and utilisation by not-safe-for-work (NSFW) content producers through the development of a user-friendly and engaging NFT marketplace.
 
   
 
-- Lockeroom.io is an Adult NFT marketplace built on Near protocol that facilitates the sale and gives access to adult-themed virtual assets, such as digital art, videos, and photos through NFTs (Non Fungible Tokens). The platform uses the Near protocol, which enables fast and secure transactions between buyers and sellers.
+Since our software is open source, anyone can use it to create their own decentralised marketplace. For creators who struggle to make money on centralised platforms and do not have full control over their content, this will be incredibly helpful. Because the marketplaces built on this code will be decentralised, they will also be shielded from censorship.
 
   
 
-- An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
+The planned flow is as follows: 
+1) users go to the website and connect their wallets* to purchase NFTs and gain access to the content; 
+2) they can then make offers on the NFTs listed; 
+3) following the conclusion of the bidding, the buyer receives ownership of the NFT. If the user does not have a wallet, there will be the ability to create one instantly.
+
+  
+  
+
+**An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem:**
 
   
 
-- An indication of why your team is interested in creating this project.
+This project relates to Mintbase and the NEAR ecosystem because it will allow not only Allie, but any other adult content creators the ability to spin up their needed tools in a decentralised manner.
+
+  
+
+**An indication of why your team is interested in creating this project:**
+
+  
+
+We are interested because we see how many creators are at the mercy of centralised platforms to distribute their content. The goal is to provide open source tools to support all creators, starting with one special creator.
 
   
 
   
 
-### Project Details
+### Project Details:
 
   
 
-**UI Design:**
+**Flow Chart Diagram:**
 
-  
-
-**Basic UML Diagram:**
-![UML Design](./uml-daigram.jpg)
-  
+![UML Design](./UML.jpg)
 
 **Technology stack:**
 - Backend:
+	- MongoDB
 
-	-   MongoDB
-	-   AWS S3 (For censored content storage)
-	-   Express.js
-	-  	 Node.js
-	-   Near javascript-sdk (for smart contract)
-	-   Arweave (For NFT Pass Storage)
-    
+	- AWS S3 (For censored content storage)
+
+	- Express.js
+
+	- Node.js
+
+	- Near javascript-sdk (for smart contract)
+
+	- Arweave (For NFT Pass Storage)
+
+  
 
 - Frontend:
 
-	-  	 React
-	-   Tailwind CSS
-
-  
-
-  
+	- React
+	
+	- Tailwind CSS
 
 ### Ecosystem Fit
 
-  
+**Where and how does your project fit into the ecosystem?**
+	Right on top of Mintbase (as well as other Dapps hopefully). As people learn about Mintbase and the tools offered in the Mintbase toolkit, we hope that content creators looking for more delicate handling of their projects will look at this project.
+
+
+**Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's user base, yourself)?**
+
+Target audience is generally NSFW content creators to spin up and use our contracts as well as consumers of the content who will be collecting NFTs.
+
+We also hope to integrate with various chains to ensure that funds can reach intended creators from any chain.
+
+**What need(s) does your project meet?**
+The need for open source web3 tools that support NSFW content creators.
+
+**If so, how is your project different?**
+
+Our project hopes to focus specifically on the sensitive nature of NSFW content creation and aims to focus on helping these creators use web3 tools to create self-sustaining economies for themselves.
+
+ **If not, are there similar projects in related ecosystems?**
+ Not that we have seen so far.
+
+## Team
+
+**Team leader:** Chole Lewis
+**Team members:** Monish Muralidharan, Vijay Murugan, Allie Knox
+
+**Contact name:** Chole Lewis
+**Contact Email:** [chloe@marmaj.org](mailto:chloe@marmaj.org)
 
   
-
-Help us locate your project in the Mintbase landscape and what problems it tries to solve by answering each of these questions:
-
-  
+ **Team Code Repos:**
 
   
-
-- Where and how does your project fit into the ecosystem?
-
-  
-
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-
-  
-
-- What need(s) does your project meet?
-
-  
-
-- Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
-
-  
-
-- If so, how is your project different?
-
-  
-
-- If not, are there similar projects in related ecosystems?
-
-  
-
-  
-
-## Team :busts_in_silhouette:
-
-  
-
-  
-
-### Team members
-
-  
-
-  
-
-- **Team leader:** Chole
-
-  
-
-- **Team members:** Monish Muralidharan, Vijay Murugan, Allie.
-
-  
-
-  
-
-### Contact
-
-  
-
-  
-
--  **Contact Name:** Chole
-
-  
-
--  **Contact Email:** [Chloe@marmaj.org](mailto:Chloe@marmaj.org)
-
-  
-  
-
-### Team's experience
-
-  
-
-  
-
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-  
-
-  
-
-If anyone on your team has applied for a grant at the Mintbase previously, please list the name of the project and legal entity here.
-
-  
-
-  
-
-### Team Code Repos
 
   
 
@@ -180,51 +126,25 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 
 - https://github.com/Kalankendra-DAO
 
+  
+
 - https://github.com/MarmaJFoundation
 
   
 
+  
+
 - https://github.com/Kalankendra-DAO/shardible
+ 
+## Development Status:
 
-  
-  
-
-## Development Status :open_book:
-
-  
+Our initiative is still in its early stages. We couldn't locate anything similar to this project since it is a new concept in this chain. Our requirements must be better considered and created.
 
   
 
-- links to improvement proposals or [RFPs](https://github.com/mintbase/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
+The development of this marketplace is complex as it is a new concept. First the project needs to be designed and planned. Then the necessary infrastructure has to be put in place. Once the marketplace is up and running it has to be properly marketed to its potential users. In order to ensure the success all these processes have to be met.
 
-  
-
-- academic publications relevant to the problem,
-
-  
-
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-
-  
-
-- references to conversations you might have had related to this project with anyone from the Mintbase Foundation,
-
-  
-
-- previous interface iterations, such as mock-ups and wireframes.
-
-  
-
-  
-
-## Development Roadmap :nut_and_bolt:
-
-
-
-  
-
-
-  
+## Development Roadmap:
 
 ### Overview
 
@@ -232,102 +152,110 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 
   
 
--  **Total Estimated Duration:**  2 months
+  
+
+-  **Total Estimated Duration:** 1.5 months
 
   
 
--  **Full-Time Equivalent (FTE):**  2 FTE
+  
+
+-  **Full-Time Equivalent (FTE):** 2.5 FTE
+
+  
 
   
 
 -  **Total Costs:** 10,000 USD
 
-  
-
-  
-
-### Milestone 1 — Implement NFT Marketplace Modules
+### Milestone 1 -  Implement smart contract and backend
 
   
 
   
 
--  **Estimated duration:** 1 month
+  
+
+-  **Estimated duration:** 2-3 weeks
 
   
 
--  **FTE:** 2
+  
+
+-  **FTE:** 2.5 FTE
+
+  
 
   
 
 -  **Costs:** 6,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | MIT |
+| 0b. | Documentation | We will provide inline documentation of the code how a user can use our factory contract for their marketplace. And how to set the code in the cloud. |
+| 1. | Create account| Allie can update her Profile. |  
+| 2. | Create Collection | To create a collection that stores the censored content in a centralised database and NFT in NEAR and Arweave.|  
+| 3. | To unlock the content to the user | This function is to check if the connected wallet has any NFT of collection to unlock the content to that account.|  
   
 
 ### Milestone 2 — Enhanced Frontend and User Adoption
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | MIT|
+| 0b. | Documentation | Provide mockups and/or wireframes (e.g. Figma)
 
+And documents on how to connect and buy and unlock the content of Allie’s (other content creator) |
   
 
   
 
--  **Estimated Duration:** 1 month
+  
+
+-  **Estimated Duration:** 4 weeks
+
+  
 
   
 
 -  **FTE:** 2
+
+  
 
   
 
 -  **Costs:** 4,000 USD
 
-  
-  
 
-## Future Plans
 
-  
+### Future Plans:
 
-  
-
-Please include here
+-   The marketplace offers the owner Roketo payment services
+    
 
   
 
-  
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-
-  
-
-- the team's long-term plans and intentions in relation to it.
+-   The marketplace offers fundamental minting on Mintbase
+    
 
   
 
-  
-
-## Additional Information :heavy_plus_sign:
-
-  
+-   For a lot of the front end and restricted content, we could even be able to collaborate with Gorilla Shops.
+    
 
   
 
-**How did you hear about the Grants Program?** Mintbase Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+-   The marketplace offers organisational structure through Astro DAO (investment through tokens + Ref Finance).
+    
 
   
 
-  
+Thus, all the necessary instruments are already in place, but need to be linked together. If we can accomplish that, we will attract more people and, in the long run, establish this model as a platform.
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+### Additional Information:
 
-  
-
-  
-
-- Work you have already done.
+**How did you hear about the Grants Program?:**
 
   
 
-- If there are any other teams who have already contributed (financially) to the project.
-
-  
-
-- Previous grants you may have applied for.
+From Twitter and being active in the NEAR Ecosystem.
