@@ -1,5 +1,5 @@
   # Mintbase Grant Proposal
- **Project Name:** "Allie's Marketplace" (for now)
+ **Project Name:** "Allie's Marketplace"
 
 **Team Name:** Marmaj DAO
 
